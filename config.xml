@@ -1,0 +1,6 @@
+  <QuotaThresholdMB>10000</QuotaThresholdMB>
+  <DeliveryFailureThreshold>2</DeliveryFailureThreshold>
+  <EnableTeamsNotification>true</EnableTeamsNotification>
+  <TeamsWebhookUrl>https://m365x87537935.webhook.office.com/webhookb2/a5422ec3-efc5-4efe-a025-d0d82b3373ac@000d04b3-7bd2-4a68-8c41-02211f69b7db/IncomingWebhook/e388d6ab80dc471dbfaf2330873a18f7/962980d9-26c7-4526-adee-b16bef6a25d5/V2450SF5q5ICqtZ-Ykc3W1L8p7K8FYGZvcD1ISOOngS0k1</TeamsWebhookUrl>
+  <LogFilePath>C:\Users\Testhealing.log</LogFilePath>
+</MailboxConfig>
